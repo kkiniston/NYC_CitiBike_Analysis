@@ -25,4 +25,8 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 ![Screenshot 2023-04-04 112953](https://user-images.githubusercontent.com/115853964/229871857-41a9ceb1-3533-45b2-be2b-13b42c65dc36.png)
 
 
-The darker the red, the more bikes that were rented. As you can see from this image, 7am-8am and 5pm-6pm were primary rental times.
+The shift in color represents the amount bikes that were rented this was further broken down by time and by looking at the graph, 7-8 and 5-6 were the highest rating times where bikes where being rented.
+
+
+## Summary 
+Visualisation of data is one of the most important elements when creating a data story, using Tableau is a powerful tool able to create a comprehensive and organized story of the data with a wide range of different tool sets. This project specifically reminded me of a data visualist who uses Blender to create 3D and interactive models and animations. I think incorporating a level of geo-node capability would enhance geographical maps and create the ability to visulize and track common/ popular paths taken in this study. 
